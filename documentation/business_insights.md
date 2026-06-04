@@ -43,3 +43,20 @@
 3. Oceania
 4. Southeast Asia
 5. South America
+
+## Delivery Performance Analysis
+
+### Objective
+
+Identify which markets experience the highest rate of late deliveries.
+
+### Findings
+
+(To be populated from delivery_performance_by_market.csv)
+
+### Business Impact
+
+Markets with higher late-delivery rates may experience:
+- Reduced customer satisfaction
+- Increased operational costs
+- Higher risk of order cancellations

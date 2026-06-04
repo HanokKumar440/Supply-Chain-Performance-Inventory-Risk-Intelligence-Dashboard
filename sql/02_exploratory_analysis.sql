@@ -26,3 +26,18 @@ SELECT
 FROM supply_chain_dataset
 GROUP BY `Order Region`
 ORDER BY Total_Revenue DESC;
+
+-- Delivery Performance by Market
+
+SELECT
+    Market,
+    COUNT(*) AS Total_Orders,
+    SUM(CASE WHEN `Delivery Status` = 'Late delivery' THEN 1 ELSE 0 END) AS Late_Orders,
+    ROUND(
+        SUM(CASE WHEN `Delivery Status` = 'Late delivery' THEN 1 ELSE 0 END)
+        * 100.0 / COUNT(*),
+        2
+    ) AS Late_Delivery_Percentage
+FROM supply_chain_dataset
+GROUP BY Market
+ORDER BY Late_Delivery_Percentage DESC;
