@@ -38,7 +38,7 @@ Using SQL and Power BI, the project transforms raw supply chain data into action
 ### Planned Phases
 
 - [x] Project Setup
-- [ ] Data Understanding
+- [x] Data Understanding
 - [ ] SQL Analysis
 - [ ] KPI Development
 - [ ] Reporting Views
