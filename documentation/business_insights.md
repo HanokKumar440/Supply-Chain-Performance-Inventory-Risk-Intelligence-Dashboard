@@ -60,3 +60,37 @@ Markets with higher late-delivery rates may experience:
 - Reduced customer satisfaction
 - Increased operational costs
 - Higher risk of order cancellations
+
+# Final Business Insights
+
+## Revenue Performance
+
+* Pacific Asia generated the highest revenue and profit.
+* Europe and LATAM were the next strongest markets.
+* Revenue growth showed an upward trend over the analysis period.
+
+## Delivery Performance
+
+* More than 53% of deliveries were late.
+* Europe recorded the highest late-delivery percentage.
+* Delivery issues were present across all markets, indicating a company-wide operational challenge.
+
+## Product Performance
+
+* Cleats was the highest-performing category in both revenue and profit.
+* A small number of products contributed a significant portion of total revenue and profit.
+* Sports and fitness-related products dominated sales.
+
+## Customer Performance
+
+* Consumer customers generated the majority of revenue and profit.
+* Revenue was distributed across many customers rather than concentrated in a few large accounts.
+* Customer profitability aligned closely with revenue performance.
+
+## Strategic Recommendations
+
+1. Improve delivery performance in Europe and other high-delay markets.
+2. Prioritize inventory availability for top-performing products.
+3. Continue investment in high-performing product categories.
+4. Focus customer retention efforts on the Consumer segment.
+5. Monitor operational efficiency to reduce late deliveries and improve customer satisfaction.
