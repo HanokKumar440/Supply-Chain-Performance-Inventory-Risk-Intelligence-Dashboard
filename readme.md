@@ -40,13 +40,28 @@ Using SQL and Power BI, the project transforms raw supply chain data into action
 - [x] Project Setup
 - [x] Data Understanding
 - [x] Data Audit & Profiling
-- [ ] Exploratory Analysis
-- [ ] KPI Development
-- [ ] Reporting Views
-- [ ] Power BI Data Modeling
-- [ ] Dashboard Development
+- [x] Exploratory Analysis
+- [x] KPI Development
+- [x] Reporting Views
+- [x] Power BI Data Modeling
+- [x] Dashboard Development
 
 ---
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Images/Executive_Overview.png)
+
+### Delivery Performance
+
+![Delivery Performance](Images/Delivery_Performance.png)
+
+### Product & Customer Intelligence
+
+![Product & Customer Intelligence](Images/Product_&_Customer_Intelligence.png)
+
 
 ## Author
 
