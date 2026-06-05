@@ -52,15 +52,15 @@ Using SQL and Power BI, the project transforms raw supply chain data into action
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](images/Executive_Overview.png)
 
 ### Delivery Performance
 
-![Delivery Performance](Images/Delivery_Performance.png)
+![Delivery Performance](images/Delivery_Performance.png)
 
 ### Product & Customer Intelligence
 
-![Product & Customer Intelligence](Images/Product_&_Customer_Intelligence.png)
+![Product & Customer Intelligence](images/Product_&_Customer_Intelligence.png)
 
 
 ## Author
